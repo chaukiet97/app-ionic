@@ -9,6 +9,24 @@
         "@ionic/angular-toolkit:page": {
           "styleext": "scss",
           "standalone": true
+        },
+        "@ionic/angular:application": {
+          "skipTests": true
+        },
+        "@ionic/angular:class": {
+          "skipTests": true
+        },
+        "@ionic/angular:directive": {
+          "skipTests": true
+        },
+        "@ionic/angular:pipe": {
+          "skipTests": true
+        },
+        "@ionic/angular:service": {
+          "skipTests": true
+        },
+        "@ionic/angular:component": {
+          "skipTests": true
         }
       },
       "root": "",
